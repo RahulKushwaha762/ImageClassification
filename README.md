@@ -5,3 +5,8 @@ User needs to show an image on top left screen and capture the screen , the imag
 One can show video on youtube or can show the downloaded image.
 
 ![Image ](https://github.com/RahulKushwaha762/ImageClassification/blob/master/capturewindow.PNG)
+
+One can use the available trained model 'model.h5' present in repository.
+
+Feel free to suggest any changes....
+Thanking Everybody. 
